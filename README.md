@@ -1,3 +1,7 @@
+![image alt text](https://assets.digitalocean.com/public/mascot.png "image caption")
+
+`**hel`lo **
+
 Here is a simple flow chart:
 
 ```mermaid
