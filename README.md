@@ -1,4 +1,16 @@
-mermaid
+# Key Elements in Product X
+
+| Element     | Percentage (%) |
+|-------------|----------------|
+| Calcium     | 42.96          |
+| Potassium   | 50.05          |
+| Magnesium   | 10.01          |
+| Iron        | 5.00           |
+
+
+
+# Mermaid Diagram Examples
+## Sequence Diagrammermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
     title Key elements in Product X
